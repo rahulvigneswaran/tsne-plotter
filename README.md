@@ -15,7 +15,9 @@ This is Matlab script for plotting 2 Dimensional and 3 Dimensional t-Distributed
 5. The code will generate both 2D and 3D t-sne plots.
 
 
-Examples of `Data`,`Label` and `t-sne plots` have been included with this repository.
+Examples of `Data`,`Label` and `t-sne plots` have been included with this repository. Sample 2D and 3D t-sne plots for the given sample inputs are as follows :
+
+![tsne-2d](tsne-2d.png) ![tsne-3d](tsne-3d.png)
 
 
 ## Issue / Want to Contribute ? :
